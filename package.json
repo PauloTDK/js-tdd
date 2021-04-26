@@ -1,0 +1,19 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Bibioteca teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloTDK/js-tdd.git"
+  },
+  "author": "PauloTDK <1@2.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PauloTDK/js-tdd/issues"
+  },
+  "homepage": "https://github.com/PauloTDK/js-tdd#readme"
+}
